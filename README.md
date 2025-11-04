@@ -8,7 +8,7 @@
 
 - 💻 Full Stack Developer at **AKA Software Inc.** 
 - 🌱 Former Technical Support Specialist at **Emergence Systems and Solutions**
-- 🧠 Skilled in Laravel, Flask, .NET MVC, React, RESTful APIs, SQL Server
+- 🧠 Skilled in **Laravel**, **Flask**, **.NET MVC**, **React**, **RESTful APIs**, **SQL Server**
 - 🤝 Open to collaborating on open-source projects and innovative ideas. 
 - 🏆 Goal: To craft scalable, impactful software that makes a difference.  
 
