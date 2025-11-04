@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Jeyfred Cariño!
 
+🎯 **Full Stack Developer | .NET MVC | React | SQL | AngularJS | SQL | C#**
+                        **Laravel | AlpineJS | MySQL | PHP | Python | Flask** 
+
 
 
 ---
