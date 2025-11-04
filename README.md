@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Jeyfred Cariño!
 
-Welcome to my GitHub profile!  
-I'm a passionate **software developer** who loves turning ideas into reality through clean, efficient, and modern code.
+
 
 ---
 
