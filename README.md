@@ -1,19 +1,16 @@
 # 👋 Hi there, I'm Jeyfred Cariño!
 
-🎯 **Full Stack Developer | .NET MVC | React | SQL | AngularJS | SQL | C#**
-                        **Laravel | AlpineJS | MySQL | PHP | Python | Flask** 
-
-
+🎯 **Full Stack Developer | .NET MVC | React | SQL | AngularJS | SQL | C# | Laravel | AlpineJS | MySQL | PHP | Python | Flask** I'm a full stack developer with 4+ years of experience building web applications, APIs, and modern user interfaces. I enjoy working across the entire development cycle — from crafting efficient back-end logic to delivering sleek, responsive front-end designs.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I enjoy building full-stack web applications and exploring new technologies.  
-- 🌱 Currently learning **DevOps**, **Cloud Computing**, and **AI/ML**.  
-- 🧠 Always curious about improving development workflows and system design.  
-- 🤝 Open to collaborating on open-source projects and innovative ideas.  
-- 🎯 Goal: To craft scalable, impactful software that makes a difference.  
+- 💻 Full Stack Developer at **AKA Software Inc.** 
+- 🌱 Former Technical Support Specialist at **Emergence Systems and Solutions**
+- 🧠 Skilled in Laravel, Flask, .NET MVC, React, RESTful APIs, SQL Server
+- 🤝 Open to collaborating on open-source projects and innovative ideas. 
+- 🏆 Goal: To craft scalable, impactful software that makes a difference.  
 
 ---
 
